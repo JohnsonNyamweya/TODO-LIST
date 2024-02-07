@@ -1,2 +1,2 @@
-# DictionaryApp
-Dictionary android application with MVVM, clean architecture, retrofit and caching.
+# TODO LIST App
+TODO LIST android application with MVVM and room.
